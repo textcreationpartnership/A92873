@@ -1,0 +1,412 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning the sovereign internal balsom wherein is intimated the ingredients, and method of its preparation; and a satisfactory account given of its great virtue, efficacy, and usefulnesse. With the manner of taking it, for the cure, and prevention of most diseases incident to humane bodies. By Thomas See, physitian. With allowance.</title>
+            <author>See, Thomas, fl. 1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92873</idno>
+            <idno type="STC">Wing S2405A</idno>
+            <idno type="STC">ESTC R230271</idno>
+            <idno type="EEBO-CITATION">99895963</idno>
+            <idno type="PROQUEST">99895963</idno>
+            <idno type="VID">153580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2371:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning the sovereign internal balsom wherein is intimated the ingredients, and method of its preparation; and a satisfactory account given of its great virtue, efficacy, and usefulnesse. With the manner of taking it, for the cure, and prevention of most diseases incident to humane bodies. By Thomas See, physitian. With allowance.</title>
+                  <author>See, Thomas, fl. 1665.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Mabb, for Henry Ev[ersden], at the Grey-Hound in St. Pauls Church yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and imprint date from Wing CD-ROM, 1996.</note>
+                  <note>DFo copy, reel 2371, has a stain on the imprint affecting legibility.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term>Medicine, Popular --  Early works to 1800.</term>
+               <term>Patent medicines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153580:1"/>
+            <pb facs="tcp:153580:1" rendition="simple:additions"/>
+            <p>A Diſcourſe Concerning the SOVEREIGN Internal Balſom: Wherein is Intimated the Ingre<g ref="char:EOLhyphen"/>dients, and Method of its Preparation; And a Satisfactory Account given of its great Virtue, Efficacy, and Uſefulneſſe.</p>
+            <p>With the manner of taking it, for the Cure, and Prevention of moſt Diſeaſes, incident to Humane Bodies.</p>
+            <p>By <hi>Thomas See,</hi> PHYSITIAN.</p>
+            <q>—Ignoti Nulla Cupido.</q>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Thomas Mabb,</hi> for <hi>Henry Eversden,</hi> at the <hi>Grey-Hound</hi> in St. <hi>Pauls Church Yard,</hi> 1665.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:153580:2"/>
+            <head>To the Ingenious, <hi>Thomas See</hi> Phyſitian, upon his Sovereign Internal BALSOME.</head>
+            <lg>
+               <l>YOur <hi>Polycreſton</hi> doth its <hi>Regency</hi>
+               </l>
+               <l>
+                  <hi>Maintain</hi> in <hi>Humane Bodies. Nature</hi> doth</l>
+               <l>Freely <hi>ſubmit</hi> unto its <hi>Sovereignty,</hi>
+               </l>
+               <l>And <hi>joyneth forces</hi> with it, thus they both</l>
+               <l>
+                  <hi>Sweetly Combine</hi> for to <hi>preſerve</hi> the <hi>Throne</hi>
+               </l>
+               <l>
+                  <hi>Of Life,</hi> from th' <hi>Empire</hi> of the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <l>What can one <hi>hand contribute</hi> to that <hi>Cauſe</hi>
+               </l>
+               <l>In which you are <hi>Ingag'd?</hi> being known ſo good,</l>
+               <l>That you already have a full applauſe,</l>
+               <l>And a vote general, by none withſtood;</l>
+               <l>Experience having gain'd the Vulgar Tribe,</l>
+               <l>And your Diſcourſe, the Learned made ſubſcribe.</l>
+            </lg>
+            <lg>
+               <l>If ever <hi>Modeſty</hi> did ill <hi>become</hi>
+               </l>
+               <l>Its owner; here, tis to be ſeen, wherefore</l>
+               <l>Concerning <hi>Phyſick</hi> in this <hi>Total Summe,</hi>
+               </l>
+               <l>When all was not <hi>too much,</hi> ſaid you no <hi>more?</hi>
+               </l>
+               <l>Though you by this would ſhun all <hi>Eulogies,</hi>
+               </l>
+               <l>Yet ſhall my <hi>Trumpet</hi> ſound, at ſuch a <hi>Prize.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>H. Y. M. D.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>To the Learned and Induſtrious, Doctor <hi>Thomas See,</hi> con<g ref="char:EOLhyphen"/>cerning his Sovereign Internal BALSOME.</head>
+            <l>WHilſt others <hi>Pride</hi> themſelves in <hi>Airy Parts,</hi>
+            </l>
+            <l>Your <hi>Acts</hi> Proclaim you are Maſter of <hi>Arts;</hi>
+            </l>
+            <l>And which is more, that you have <hi>took degree,</hi>
+            </l>
+            <l>Not onely in <hi>Learning,</hi> but <hi>Humilitie.</hi>
+            </l>
+            <l>For me to <hi>Celebrate your Balſom's</hi> Worth</l>
+            <l>Is but loſt labour, who can ſet it forth?</l>
+            <l>Except your ſelf, tis onely <hi>Light ſhows Light,</hi>
+            </l>
+            <l>
+               <hi>Caeſar</hi> alone could <hi>Ceſar</hi>'s Actions write.</l>
+            <l>Should I avouch it, merrited to be</l>
+            <l>More <hi>Catholick</hi> then is the <hi>Roman See:</hi>
+            </l>
+            <l>Or if ith' <hi>Pagan World,</hi> thou had'ſt done this,</l>
+            <l>Thou had'ſt not <hi>ſcap'd</hi> an <hi>Apotheoſis;</hi>
+            </l>
+            <l>Who'd take a <hi>Poets word?</hi> but now his Oath</l>
+            <l>Is <hi>ſuperadded,</hi> you may <hi>credit both.</hi>
+            </l>
+            <closer>
+               <signed>G. O. M. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:153580:2"/>
+            <head>A Satisfactory Diſcourſe, Concerning the Sovereign Internal BALSOME OF <hi>Thomas See</hi> of <hi>London,</hi> Phyſitian.</head>
+            <head type="sub">Penned by the Authour of it.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was no difficult Task to preſage what en<g ref="char:EOLhyphen"/>tertainment a Matter of this Nature would meet with, among thoſe to whom only a na<g ref="char:EOLhyphen"/>ked Advertiſement concerning it ſhould be preſented; all ſuch pretenſes being through the fraudulent Practiſes of ſome Preſumpti<g ref="char:EOLhyphen"/>ous and unskilful perſons brought into almoſt an univerſal Odium and Suſpition of Impoſture. That according to the different Tempers, Complexions, Intereſts, and Incli<g ref="char:EOLhyphen"/>nations of People there ſhould be produced as great a va<g ref="char:EOLhyphen"/>riety of cenſures is a natural conſequence, and accordingly expected.</p>
+            <p>As for the Opinions of the Vulgar whoſe Ignorance in<g ref="char:EOLhyphen"/>ſpires them with the greateſt preſumption, I ſhall ſend them to School to learn the meaning of that familiar ſaying, <hi>Qui pauca novit citò pronunciat.</hi> As for thoſe whoſe Ability qualifi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s them for competent Judges, with ſuch this enter<g ref="char:EOLhyphen"/>prize will gain a favourable conſtruction, except they are over-byaſſed by intereſt to a partial Verdict: Unto theſe
+<pb n="4" facs="tcp:153580:3"/>howſoever inclined, I ſhall ſuggeſt that worthy ſentence of the profound Naturaliſt, Doctor <hi>Harvey</hi> in his <hi>Exercitation of Conception,</hi> being uncertain how his Judgement in that caſe would be reſented; <hi>Viri docti &amp; ingenioſi de eâ cogitant, faſtoſi, per me, rejiciant, &amp; petulanti qui ſunt ſplene liberè irride<g ref="char:EOLhyphen"/>ant.</hi>
+            </p>
+            <p>The motives whatſoever they were which induced me at firſt to have my Balſome publickly expoſed to Sale, (though not poſſibly without ſome reflection) and now to give ſome ſatisfaction to all whoſe concernment it may be to make uſe thereof are not pertinent to my preſent Theame, onely I ſhall not omit that next to that principal end which is to bear ſway in all the undertakings of a Chriſtian, a deſigne of gratitude to an obliging perſon had the greateſt pre<g ref="char:EOLhyphen"/>valency, whoſe Fidelity, Care, Charge and Induſtry in the preparation of it, will not be ever-liberally compenſated by its advantage; To which might be ſuperadded, my fre<g ref="char:EOLhyphen"/>quent Avocations from a conſtant and uninterupted purſuit of practiſe by the importunity of more urgent Affaires, make meleſs capable of rendring it ſo publickly uſeful as it juſtly deſerves. Hereupon I was the more eaſily inclined to attempt its Publication by the Preſſe, that it might thereby arrive to their knowledge, to whom otherwiſe diſtance of place would have made it <hi>incommunicable and unprofitable.</hi>
+            </p>
+            <p>If I am not miſtaken, in this ſingle compoſition I have at<g ref="char:EOLhyphen"/>tained the ſcope, which was deſigned, by the moſt deſerved<g ref="char:EOLhyphen"/>ly Renowned <hi>Sennertus</hi> in his Elaborate Treatiſe; <hi>De con<g ref="char:EOLhyphen"/>ſenſu inter Chymicos &amp; Galenicos, &amp;c.</hi>
+            </p>
+            <p>The Ingredients of my Balſome are vulgarly call'd, <hi>Gale<g ref="char:EOLhyphen"/>nical, (viz.)</hi> thoſe which belong to the Vegetative Kingdom, and are the choiceſt of thoſe Pectoral, Cephalical, and Car<g ref="char:EOLhyphen"/>diaque Simples which have been ſucceſſively tranſmitted by the Arabique and Grecian Authors to poſterity, in the par<g ref="char:EOLhyphen"/>ticular Enumerations of their Virtues, and in their moſt approved preſcriptions with ſo liberal an encomium of their Excellency, as can ſcarcely admit of an hyperbole.</p>
+            <pb n="5" facs="tcp:153580:3"/>
+            <p>The proceſſe, or <hi>modus praeparandi,</hi> is of a far later date, being wholly Spagyrical, an Art wherein the Antients were not very well Verſed; neither in relation to internal uſes hath a Medicine of this kinde been excogitated by any of our modern, and more ſagatious Chymiſts, whoſe Diſ<g ref="char:EOLhyphen"/>courſes and <hi>Pharmacopaea</hi> I have peruſed. And if I aſſume to my ſelf the ſole Invention of it, I ſhall in no wiſe dimi<g ref="char:EOLhyphen"/>niſh the Reputation of thoſe whoſe other Eſſayes and Expe<g ref="char:EOLhyphen"/>riments in this Noble Miſtery bring them in a full harveſt of applauſe.</p>
+            <p>In the culling out ſuch Simples which were appropri<g ref="char:EOLhyphen"/>ate to thoſe Parts whoſe Diſtempers were intended to be extirpated, or alleviated by mine internal Balſome, I have purpoſely declined the election of any of thoſe which are either of a Narcotique or Corroſive Quality, being well a<g ref="char:EOLhyphen"/>ware, that if their pernicious, and fatal effects ſhould be put into the ſcale againſt their applauded, but accidental, ſuc<g ref="char:EOLhyphen"/>ceſſes which would preponderate, and made conſtant obſer<g ref="char:EOLhyphen"/>vations, and iterated experiments, that baſis on which this Medicine is founded.</p>
+            <p>If a Medicine, whoſe matter, and method, are ſo worthy commendation, may not be uſhered into the World by a ſmall Diſcourſe to intimate its uſefulneſſe; to remove the prejudices to which it may be obnoxious through the igno<g ref="char:EOLhyphen"/>rance and diffidence of many, without a ſevere cenſure from the Learned, one may eaſily augure, how it would put a pe<g ref="char:EOLhyphen"/>riod to all induſtrious endeavours after the improvement of the preſent ſtate of things to an higher degree of perfecti<g ref="char:EOLhyphen"/>on, and introduce a Supine, and ſloathful diſpoſition into many Active and Publick Spirits, did they not ſlight their Entertainment in the World, and aquieſce in their being conſcious to themſelves that their attempts are laudable; If I am charged as a Criminal, our Patriark <hi>Galen</hi> ſhall be my Compurgatour: whoſe words in his Tract, <hi>De uſu Re<g ref="char:EOLhyphen"/>ſpirationis,</hi> are theſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>:
+<pb n="6" facs="tcp:153580:4"/>But I have expectation of other Treatment from thoſe who are judicious in this preſent caſe, to whoſe Reaſon and Learning upon an impartial ſurveigh of the enſuing Diſ<g ref="char:EOLhyphen"/>courſe it will approve it ſelf, eſpecially conſidering it is not deſtitute of the univerſal ſuffrage, and concurrent teſtimony of the moſt Credible Writers, both of the paſt and preſent age, whoſe Ability in Phyſick hath been indiſputable, and hath in effect <hi>their</hi> tacit conſent, and commendamus, which few or none of thoſe who are friends to the Art of Phyſick, and inſtructed in its principles will diſallow.</p>
+            <p>As for thoſe, who are through want of Learning unable to judge of this Medicine, by thoſe Rules which are proper to Scholers, they may ſoon ſatisfie themſelves, not onely by a cheap, but advantagious experience of its Worth.</p>
+            <p>That Books have been written, not only concerning the Virtues of Compoſitions, but alſo that ſingle Simples have been celebrated by ſelect Diſcourſes, is not ſtrange to them that are but ſlenderly acquainted with Phyſical Authours, whoſe Examples I have in this preſent Treatiſe, I hope in<g ref="char:EOLhyphen"/>offenſively imitated. And although by a copious induction of inſtances I might give to many abundant ſatisfaction of its efficacy, in the accompliſhing all thoſe ends for which it propounded to be adminiſtred; yet I ſhal for the preſent de<g ref="char:EOLhyphen"/>cline that way, not becauſe of its ſavouring of Empericiſme, and being unſutable to this occaſion of my writing, but be<g ref="char:EOLhyphen"/>cauſe another opportunity may ſhortly offer it ſelf, when a<g ref="char:EOLhyphen"/>mong other Experiments they ſhall be mentioned, and in this paper make uſe of that way of arguing which is dependant upon the teſtimony of Authours which I prefer to the atte<g ref="char:EOLhyphen"/>ſtation of any ſingle and private perſons, it being no wayes probable that thoſe which have by the experience of m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny years practiſe throughly acquainted themſelves with the na<g ref="char:EOLhyphen"/>ture of theſe Simples, ſhould attribute to them ſuch a degree of efficacy wherewith they are not endowed. I readily be<g ref="char:EOLhyphen"/>lieve that none which have the firſt fruits of Reaſon, but will rather be ſatisfied with this way of evidence, then the other
+<pb n="7" facs="tcp:153580:4"/>which I have omitted to inſiſt on, as being more obnoxious <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o miſtakes and fallacies; I am not at all doubtful, but if Reader it ſhould be your lot to be afflicted with any of thoſe Diſtempers, at which this Balſome is level'd, that upon the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aking of it according to the directions, you will ſubſcribe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our <hi>probatum eſt;</hi> provided you take it for ſuch a conſider<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble time, and with ſuch circumſtances, as the nature of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our melady doth require; for none can reaſonably expect <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat their bodies which have been ſome years decaying, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould be immediately repaired, or thoſe vicious habits of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny of the viſcera which plead a kind of preſcription ſhould <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e as ſuddainly exterminated, as encountred; or that the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnate heat, when almoſt ſuffocated and extinguiſht, ſhould <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon the firſt approach of aſſiſtance recover its former acti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity; If any intend to uſe my Balſome with ſuch expecta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, let them firſt prepare themſelves by a Doſe or two of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ellebore,</hi> and then proceed.</p>
+            <p>As Nature doth not act <hi>per ſaltum,</hi> but is gradual in all <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er operations, ſo this Balſome intended for her aſſiſtance <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the bodies of Men, is prepared to ſuch a degree of work<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, as is agreeable thereto, and may move with it, there <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing not one Ingredient in the Compoſition any wayes vi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lent or moleſtful, but all have ſuch an amicable correſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondence with it, and eaſie inſinuations to fortifie her againſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſecret invaſions of Life, which lodge in the ſupplies of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he radical moiſture, that I know no Medicine more juſtly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erits the Title of Univerſal then this: For though <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ong and violent Catharticks in many caſes prudently ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iniſtred, have been ſeconded with a good Effect; yet I <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ppoſe that in moſt Diſeaſes tis greater ſecurity to attempt <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Reſtauration by Cordial, Pectoral, and Alexipharmacal <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eans, which will gently blow up the ſparks of Life, which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re left into a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, then adventure their diſſipation or ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ction by too ſtrong a blaſt<g ref="char:punc">▪</g> That <hi>Roman</hi> is not to be for<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otten, but imitated, <hi>Qui cun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tando r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtituit rem.</hi>
+            </p>
+            <p>I do not pretend to any Catholick Medicine, which upon
+<pb n="8" facs="tcp:153580:5"/>its firſt entrance into the body will compoſe and ſilence all the Tumultuous and Impetuous Efferations of the Humours (if with their leave who boaſt themſelves the Maſters of it, I may ſo call them) and reduce every extravagant, and diſ<g ref="char:EOLhyphen"/>orderly particle to its proper place. Was I to diſpute, not for victory, but the truth upon that queſtion, <hi>an detur panacea vera,</hi> I ſhould chuſe the negative, having as little credit for him that affirms all Diſeaſes to be cured by the ſame Medi<g ref="char:EOLhyphen"/>cine, as for him that ſhould ſay the ſame ſhooe will fit every mans foot; but he that would looſe his labour in the fur<g ref="char:EOLhyphen"/>ther purſuit of this ſubject, may repaire to the Rhodomon<g ref="char:EOLhyphen"/>tados of ſome arrogant Chymiaſters, or to the Fanatique Chymaeras of the Brethren of the Roſie Croſſe, <hi>Dic quibus in<g ref="char:EOLhyphen"/>terris &amp; eris mihi magnus</hi> Apollo.</p>
+            <p>That a Polychreſton may be prepared, whoſe virtues may extend to at leaſt thoſe Diſeaſes which have affinity with one another, hath been in all Ages uncontroverted. The di<g ref="char:EOLhyphen"/>verſe operations of ſome Simples ſo vulgarly known, muſt needs inform us how powerful and comprehenſive their efficacy may be, when Artificially knit together.</p>
+            <p>I have been very cautious in the Enumeration of the Diſ<g ref="char:EOLhyphen"/>eaſes which are Curable by my Balſom, that I may not wrong my ſelf in the abuſing of others, to a belief of receiving benefit only by this (when there may be an urgent neceſſity of ad<g ref="char:EOLhyphen"/>dreſſing themſelves to the uſe of other Medicines for the promotion of their health,) and ſo trappan them with flat<g ref="char:EOLhyphen"/>tering hopes into their winding-ſheets, by the promiſe of relief in ſuch maladies, to whoſe extirpation it is not ac<g ref="char:EOLhyphen"/>commodated.</p>
+            <p>Moſt of thoſe Diſtempers for which this Medicament can be <hi>bonâ fide</hi> commended, are not of a very different nature, but originally the ſame, though under various Appellati<g ref="char:EOLhyphen"/>ons, and have not that Heterogeneity, which at firſt view ſeems to appertain unto them, there being little, but another name or ſymptom on which to ground a diſtinction, for the Remedy of which, no eſſential alteration hath been yet
+<pb n="9" facs="tcp:153580:5"/>made in medicinal preſcriptions, which if it had not been reſerved for another Generation, or not at all to be accom<g ref="char:EOLhyphen"/>pliſhed, would have hardly eſcaped the Eſſayes of ſome late Ingenious and Induſtrious Artiſts, whoſe Anatomical In<g ref="char:EOLhyphen"/>ventions and Mechanical Hypotheſes have given juſt occaſi<g ref="char:EOLhyphen"/>on to put a difference between that Sect of Phyſitians which have hither to been known by the Title of <hi>Dogmatical</hi> and <hi>Rational,</hi> in diſtinction from thoſe other two of <hi>Empirical</hi> and <hi>Methodical,</hi> and make a fourth entirely <hi>Rational,</hi> not at all depending upon thoſe futil and inſipid ſuppoſitions which hitherto have ſo much obtained in Phyſick through their oſcitancy, who had a greater ſhare in the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. If their be any <hi>Maladies</hi> which have not the ſame ſource, which yet are mentioned, as under the influence of my Balſom, they are ſubject to the ſame method of Cure, ſo far at leaſt as I have promiſed help thereby.</p>
+            <p>The parts unto which my Balſom is <hi>Appropriate,</hi> and thoſe <hi>Diſtempers,</hi> againſt which it is <hi>Effectual;</hi> I ſhall reduce to ſix heads, and accordingly give you an account with as much brevity, and perſpicuity, as the nature of the ſubject requires.</p>
+            <p>Firſt I aſſert it is a Sovereign Medicine for all Diſtem<g ref="char:EOLhyphen"/>pers incident to the <hi>Lungs,</hi> as difficulty of <hi>Breathing, Spit<g ref="char:EOLhyphen"/>ting of Blood, Aſtma's, <g ref="char:V">Ʋ</g>lcerations, Coughs, Conſumptions, Phti<g ref="char:EOLhyphen"/>ſique, Hoarſneſſe, Defluxions of Rhumes, and Obſtructions of the Cheſt.</hi> In this part of its virtue which reſpects all pectoral Diſeaſes I cannot be too <hi>Confident,</hi> nor fear the being <hi>over<g ref="char:EOLhyphen"/>laviſh</hi> in its <hi>Commendation,</hi> partly becauſe in the <hi>nature</hi> of the <hi>Ingredients</hi> there is a <hi>peculiar tendency</hi> to <hi>aichieve</hi> the fore<g ref="char:EOLhyphen"/>mentioned ends, they being ſuch which open <hi>Obſtructions, Attenu ate Viſcons,</hi> and <hi>Clammy Phlegme, purifie the Lungs, Heal all inward Excoriations, incraſſate thin and acrid Humours,</hi> abate the violence of the <hi>Cough,</hi> and further expectoration, there being nothing which is neceſſary to <hi>Compleat</hi> a <hi>pectoral</hi> Medicine <hi>deficient;</hi> but principally, becauſe of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that <hi>ſingular advantage</hi> it hath in the preſent caſe (be<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:153580:6"/>a pure and ſincere Elixir, or Balſom) above all thoſe common Remedies which almoſt every <hi>Apothecaries</hi> File is full of, I mean <hi>Lohochs,</hi> Electuaries, Pills and Lozanges, all which are generally ſo <hi>charged</hi> with <hi>pouders,</hi> as render them altogether <hi>inept</hi> to be <hi>conveighed</hi> to the Lungs, the neareſt way thither, and if the <hi>Virtue</hi> of them do ever <hi>Arrive</hi> there, it muſt be, <hi>Viribus multùm caſtratis, Exceedingly Debilitate,</hi> it being impoſſible for theſe kind of Medicaments to come to their <hi>journies end,</hi> without ſeveral <hi>Concoctions,</hi> there being no way for the immediate paſſage of any thing to the Lungs except Air, and thoſe <hi>ſubtile Effluviums</hi> of bodies, which are of almoſt as <hi>tenuious</hi> and rare a nature; hence it is, that a groſſe and foggy Air excites the Lungs to that violent mo<g ref="char:EOLhyphen"/>tion, produceth a Cough, becauſe of its unſuitableneſs to their nature.</p>
+            <p>And after the Cure of Conſumptive Perſons hath been attempted, by a tedious and ſucceſſeleſs <hi>method</hi> of <hi>Phyſick,</hi> the <hi>Aſylum,</hi> to which at laſt they are counſelled, to betake them<g ref="char:EOLhyphen"/>ſelves, is a clear and ſweet Air. In order to the Cure of <hi>Conſumptions,</hi> and all <hi>Pulmoniaque</hi> Diſtempers, my Balſome being frequently contained in the mouth, <hi>Impregnates</hi> the Air which is continually drawn into the cavity of the Cheſt, with healing and balſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mique Atoms, which correct thoſe ſharp and ſaline particles, (wherewith the Air about Great Cities eſpecially is ſo replete,) that are ſo fatal and pernicious to humane nature; and in this particular, it juſtly <hi>challengeth</hi> the <hi>precedency</hi> of thoſe <hi>Vulgar</hi> Medicines, whoſe ſpeedy <hi>Deglutition</hi> makes them unfit for the obtaining this preſent end, <hi>(viz)</hi> the <hi>Melioration</hi> of the Air. To this I ſhall add, that next to the direct and ſpeedy conveiance of its Virtue to the Lungs <hi>in a vehicle of Air,</hi> of whoſe conve<g ref="char:EOLhyphen"/>niency for that purpoſe I have already given an intimati<g ref="char:EOLhyphen"/>on, there is another way, (if I may interpoſe to give in my Judgement among the Learned) which I cannot baptize with a fitter Name, then <hi>Filtration,</hi> which naturally ſuc<g ref="char:EOLhyphen"/>ceeds the gentle and <hi>gradual diſſolution</hi> of this Balſome in
+<pb n="11" facs="tcp:153580:6"/>thoſe parts which are <hi>adjacent</hi> to the <hi>Orifice</hi> by which the Aire paſſeth to the Lungs, that this may be effectually per<g ref="char:EOLhyphen"/>formed by a <hi>Balſome</hi> or <hi>Eſſence,</hi> not clogged with <hi>Pulps</hi> and <hi>Pcuders</hi> is <hi>obvious</hi> to a weak <hi>apprehenſion,</hi> but how poſſible to be <hi>effected</hi> by <hi>Lozanges, Lohochs, &amp;c.</hi> whoſe <hi>total Virtue</hi> con<g ref="char:EOLhyphen"/>ſiſts in <hi>Pouders, is difficult to imagine,</hi> except it be urged, that by <hi>commixtion,</hi> the <hi>pouders communicate</hi> ſome part of their <hi>Virtue</hi> to the more <hi>liquid matter;</hi> but how ſmall a <hi>portion</hi> it partakes of, is known by ſo <hi>frequent experience,</hi> that to offer any <hi>Arguments</hi> for its <hi>proof,</hi> would be as <hi>needleſs</hi> as <hi>eaſie.</hi>
+            </p>
+            <p>In any <hi>
+                  <g ref="char:V">Ʋ</g>lcerations</hi> of the <hi>Lungs,</hi> and extream <hi>weakneſſe</hi> and <hi>emaciation</hi> of Body, take it diſſolved in any convenient <hi>Liquours,</hi> the <hi>quantity</hi> let it be about an ordinary Nutmeg; thus taken Morning and Night, it doth by degrees ren<g ref="char:EOLhyphen"/>der the blood more Balſamique, yea in time, a <hi>conſolida</hi> to it ſelf. In the other <hi>Diſtempers</hi> of the <hi>Lungs,</hi> let the <hi>quan<g ref="char:EOLhyphen"/>tity</hi> of a <hi>large Pea</hi> be once every hour or two diſſolved by degrees in the mouth.</p>
+            <p>
+               <hi>Secondly,</hi> 'Tis an effectual <hi>Antidote</hi> againſt the <hi>Plague, Small Pox, Meaſels, Peſtilential Feavers,</hi> or any other <hi>Infectious Diſeaſe,</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>nwholeſome Airs.</hi> Would I expatiate upon each of thoſe claſſes of Maladies, to which it is neceſſary that a little be ſpoken, I ſhould exceed the <hi>limits</hi> by which this <hi>Diſcourſe</hi> is to be bounded; therefore I ſhall but briefly touch them, and paſſe them over. No <hi>Treacle</hi> or <hi>Methri<g ref="char:EOLhyphen"/>date</hi> is a greater preſervativite then this, eſpecially if taken in a glaſſe of <hi>Sack,</hi> it taking as it were, firſt poſſeſſion of the Heart, fortifies it powerfully againſt the virulency of all manner of contagion; for ſuch purpoſes take it onely in a <hi>Morning,</hi> or at ſuch times as any danger approaches, and be ſecure.</p>
+            <p>
+               <hi>Thirdly,</hi> It quickens the <hi>Annimal Spirits, Eaſeth pains of the Head, ſtrengthens the Memory, helps the Megrim,</hi> and all <hi>Dizzineſs</hi> and <hi>Giddineſs,</hi> and doth equally extend it ſelf to all <hi>Diſtempers</hi> of the <hi>Brain,</hi> whoſe <hi>Original</hi> is to be aſſigned to <hi>Coldneſs, Moiſture,</hi> or <hi>Obſtruction,</hi> it being of a ſubtil and pe<g ref="char:EOLhyphen"/>netrating
+<pb n="12" facs="tcp:153580:7"/>Nature eaſily pervades the <hi>genus nervoſum,</hi> and accordingly <hi>communicates</hi> its <hi>Virtues</hi> thereunto. Let it be taken every <hi>morning</hi> in the <hi>quantity</hi> of a large <hi>Haſel nut,</hi> and if you faſt after it till Noon, it will ſupply the want of a Breakfaſt, or Mornings draught.</p>
+            <p>
+               <hi>Fourthly,</hi> It promotes <hi>Digeſtion,</hi> helps <hi>diſpoſition</hi> to <hi>Vomit, expels wind,</hi> takes away <hi>fainting fits, corrects</hi> the <hi>Crudities</hi> of the <hi>Stomack,</hi> and is <hi>beneficial</hi> in all its <hi>Infirmities;</hi> there is nothing in it which exceeds that degree of warmth, which is neceſſary to the Stomachical concoction, which moderate quality of it gives juſt ground to commend the uſe of it to all ſorts of Perſons without exception of any Age or Sex, or Conſtitution whatſoever. For theſe purpoſes take the quantity of a ſmall Nut, or more, Morning and Evening, and before and after each Meal.</p>
+            <p>
+               <hi>Fifthly,</hi> 'Tis of Excellent uſe in all <hi>Surfets,</hi> any kind of <hi>Feaver,</hi> or <hi>Ague, Cramps, Aches, Colds,</hi> being diſſolved in Poſſet-Ale, to the quantity of a large <hi>Nutmeg,</hi> and the party taking it, put into a breathing ſweat for three or four hours: It's uſefulneſs in theſe <hi>maladies</hi> depends upon thoſe <hi>Bezoartique</hi> and <hi>Alexipharmacal</hi> Ingredients, which do power<g ref="char:EOLhyphen"/>fully aſſiſt Nature to ſubdue all that malignity, which hath ſeized upon either blood or ſpirits, and force it out by <hi>Tranſpiration;</hi> it may be dayly repeated where there is oc<g ref="char:EOLhyphen"/>caſion, without fear of any impairings of ſtrength by it.</p>
+            <p>
+               <hi>Sixthly,</hi> It tends much to the eaſing pains of the <hi>Stone, difficulty and ſharpneſs of <g ref="char:V">Ʋ</g>rine,</hi> the <hi>Cholick, and all gripings of the Bowells, and any windy and flatulent Diſtemper,</hi> it cor<g ref="char:EOLhyphen"/>rects the <hi>windineſs and rawneſs of milk in them which give ſuck,</hi> tis a great reſtorative of <hi>decayed ſtrength,</hi> good to prevent <hi>Abortion,</hi> to give <hi>Children</hi> for the <hi>Winde</hi> and <hi>Convulſions;</hi> in all theſe <hi>Diſeaſes</hi> let it be uſed according as neceſſity re<g ref="char:EOLhyphen"/>quires, and as your own diſcretion ſhall direct you; after this large enumeration of <hi>Infirmities</hi> and <hi>Sickneſſes</hi> to be re<g ref="char:EOLhyphen"/>medied by my <hi>Balſome,</hi> in lieu of being too extenſive, I muſt end with <hi>a nonnulla deſunt.</hi>
+            </p>
+            <pb n="13" facs="tcp:153580:7"/>
+            <p>That all which hath hitherto been ſpoken, may appear not to be <hi>gratis dictum;</hi> I ſhall give a Deſcription of the Thing it ſelf, in a manner not ſo abſtruſe, but thoſe which have Ability, Opportunity, and Curioſity, may by an In<g ref="char:EOLhyphen"/>duſtrious <hi>Inquiſition</hi> into the <hi>Authours</hi> here after mentioned, which give in their Suffrage to the <hi>Virtues</hi> attributed to my Balſom, give a very fair conjecture at leaſt, at the ingre<g ref="char:EOLhyphen"/>dients of it, or be ſatisfied with its Uſefulneſs.</p>
+            <p>Yet I do not value it at ſo <hi>cheap a rate,</hi> as to <hi>proſtitute</hi> it to the view of every careleſs <hi>Reader,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: muſt be underſtood before this can be gueſſed at. To avoid the frequent mention of the ſame Authours, and the <hi>repetition</hi> of the <hi>Virtues attributed</hi> to each <hi>Ingredient</hi> of my <hi>Balſom;</hi> I ſhall ſumme up the <hi>Contents</hi> of what they have at large in<g ref="char:EOLhyphen"/>ſiſted on, in reference to one <hi>Simple</hi> under one Head, and at laſt once for all, give in a Catalogue of ſome of their Names.</p>
+            <p>The <hi>I.</hi> and <hi>II.</hi> Which are Branches of the ſame <hi>Root,</hi> receive this <hi>Commendation:</hi> They are <hi>Enemies</hi> to <hi>Poyſon,</hi> to the <hi>Plague,</hi> to all <hi>Infectious Airs,</hi> and <hi>Malignant Diſeaſes;</hi> moſt <hi>noble Bezoartiques,</hi> and <hi>Vulneraries, attenuate clammy and tough Phlegme,</hi> help the <hi>Aſthma, eaſe Coughing, Cure Surfets, and loathing of Food, ſtrengthen Concoction, diſſolve concrete blood, heal internal <g ref="char:V">Ʋ</g>lcers, and refreſh the heart and ſpirits:</hi> The name may be ſpelt out by this Periphraſis, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>The <hi>III,</hi> and <hi>IV.</hi> Becauſe of their Affinity, ſhall be match'd together, and paſſed by with this Teſtimony: They are <hi>Alexipharmacal,</hi> reſiſt all <hi>Malignity,</hi> comfort cold <hi>Stomacks,</hi> oppoſe <hi>Melancholy,</hi> exhilarate the <hi>mind,</hi> and are profitable in gripings of the <hi>bowells,</hi> difficulty of <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> and the <hi>Cholick.</hi>
+            </p>
+            <p>The <hi>V,</hi> and <hi>VI.</hi> (being if I may ſay it without a Sole<g ref="char:EOLhyphen"/>ciſme are Synonima in Virtue) have this Character: They abate <hi>Hoarſneſs</hi> and <hi>Coughs,</hi> are profitable in inflamations of the <hi>Throat,</hi> abate the <hi>Acrimony</hi> of the Humours, help ſhort<g ref="char:EOLhyphen"/>neſs of <hi>Breath,</hi> and other <hi>Infirmities</hi> of the <hi>Lungs,</hi> and <hi>aſper
+<pb n="14" facs="tcp:153580:8"/>arteria,</hi> are gratefull both to the <hi>Stomach</hi> and <hi>Liver,</hi> and are <hi>Principal Ingredients</hi> in the moſt approved <hi>Pectoral Compoſi<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p>The <hi>VII.</hi> hath theſe <hi>Attributions:</hi> It conſumes <hi>Windi<g ref="char:EOLhyphen"/>neſs,</hi> allays <hi>gripings</hi> of the <hi>belly,</hi> cleanſeth the <hi>breast</hi> of <hi>phlegm,</hi> corrects the coldneſs of the <hi>Stomach,</hi> provokes <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> is profitable in the <hi>Dropſie</hi> and <hi>Stone, eaſeth pains, and ingenders milk.</hi>
+            </p>
+            <p>The <hi>VIII.</hi> Is of an <hi>anodine</hi> and <hi>healing nature, mitigates</hi> the ſharpneſs and heat of the <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> is effectual againſt all <hi>Pectoral Diſeaſes,</hi> cures all inward <hi>Excoriations,</hi> is profitably uſed in the <hi>Cramp, Sciatica, Ruptures, Bruiſes,</hi> and the <hi>bloody Flux,</hi> and <hi>gravel</hi> of the <hi>kidnies.</hi>
+            </p>
+            <p>The <hi>IX.</hi> Hath aſcribed to it theſe <hi>Virtues:</hi> It corrobo<g ref="char:EOLhyphen"/>rates all the <hi>bowells,</hi> principally the <hi>Head,</hi> diſpels flatulency, cleanſeth the breaſt of tough <hi>Humours,</hi> frees the <hi>Liver</hi> from <hi>Obſtruction,</hi> helps the <hi>Spleen,</hi> and <hi>cold</hi> and <hi>moiſt Diſtempers</hi> of the <hi>Wombe,</hi> and ♀<hi rend="sup">is</hi> 
+               <hi>ſopitam vim excitat.</hi>
+            </p>
+            <p>The <hi>X.</hi> Hath this <hi>Character:</hi> It is of <hi>principal uſe</hi> in the compoſition of <hi>Antidotes, conſumes Wind, provokes <g ref="char:V">Ʋ</g>rine, ſtrengthens Digeſtion, eaſeth the pains of the Cholick, and the Headach.</hi>
+            </p>
+            <p>The <hi>XI.</hi> Hath this Commendation: It <hi>attenuates</hi> and <hi>evacuates</hi> the <hi>tartar</hi> of the <hi>Lungs,</hi> and <hi>Reins,</hi> hence tis <hi>effectual</hi> in the <hi>Aſtma</hi> and <hi>Conſumptions,</hi> and in <hi>opening the <g ref="char:V">Ʋ</g>rinary paſ<g ref="char:EOLhyphen"/>ſages, tis profitable againſt Peſtilential Diſeaſes, and putrifaction of the Humours, Cramps, and Convulſions, and refreſheth the heart.</hi>
+            </p>
+            <p>The <hi>XII.</hi> Is Celebrated for <hi>eaſing pains</hi> of the <hi>Head</hi> and <hi>Stomach,</hi> for <hi>clearing</hi> the <hi>ſight,</hi> for <hi>curing diſpoſitions to vomit,</hi> for <hi>ingendring,</hi> and <hi>correcting, milk in Women,</hi> for any <hi>Obſtru<g ref="char:EOLhyphen"/>ctions of the Liver, Lungs, and Spleen.</hi>
+            </p>
+            <p>The <hi>XIII.</hi> Is <hi>Tranſmitted</hi> by <hi>Authours</hi> to us with this <hi>encomium;</hi> It <hi>attenuateth thick Humours, heals <g ref="char:V">Ʋ</g>lcers of the Lungs, and old Coughs, with all Diſeaſes of the Cheſt, opens the ſtoppages of the lower belly, and takes away the frets and gripings in Children.</hi>
+            </p>
+            <pb n="15" facs="tcp:153580:8"/>
+            <p>The <hi>XIV.</hi> Hath a general Applauſe for an <hi>Alexipharmacon,</hi> and for its <hi>uſefulneſs</hi> in all <hi>Diſeaſes</hi> of the <hi>Head,</hi> the <hi>Nerves</hi> and the <hi>Breaſt,</hi> for all <hi>Diſeaſes</hi> proceeding from <hi>Winde,</hi> as the <hi>Cholick:</hi> from <hi>Obstruction,</hi> as <hi>Hypocon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riaque Melancholy, difficulty of <g ref="char:V">Ʋ</g>rine:</hi> and for the <hi>Chin-Cough in Children.</hi>
+            </p>
+            <p>The <hi>XV.</hi> Is an <hi>Experienced Remedy in abating the ſharpneſs of Humours,</hi> in <hi>ſtopping the violence of Coughs,</hi> in opening all <hi>pectoral Obſtructions, in ſpitting of blood, in the Pleuriſie, and hoarſneſs of the throat,</hi> and is of frequent and vulgar uſe.</p>
+            <p>The <hi>XVI.</hi> Carries a <hi>Teſtimony</hi> of its <hi>Virtue</hi> in the very <hi>name,</hi> &amp; having acquainted you with its Uſefulneſs in <hi>Coughs, in ſhort<g ref="char:EOLhyphen"/>neſs of breath, and in <g ref="char:V">Ʋ</g>lceration of the Lungs,</hi> I take my leave of it.</p>
+            <p>The <hi>XVII.</hi> Hath a great <hi>Eſtimation,</hi> in the <hi>curing of Catarrs,</hi> and the <hi>Dropſie,</hi> in the <hi>comforting of the Liver, ſtrengthening a feeble Stomach, in opening Obſtructions, and drying up ſuperfluous moiſture</hi> in any part of the Body.</p>
+            <p>The <hi>XVIII.</hi> Hath been <hi>Eminently</hi> uſed, in all <hi>Diſtempers</hi> of the <hi>Head</hi> and <hi>Nerves;</hi> as the <hi>Falling-ſickneſs, the Palſie, the Vertigo, the Megrim,</hi> as alſo to <hi>quicken and ſtrengthen the ſight, and to open Obſtructions of the Liver, and Spleen; to cleanſe the blood, oppoſe Ma<g ref="char:EOLhyphen"/>lancholy, and corroborate the Memory, and comfort the heart, and pre<g ref="char:EOLhyphen"/>vent faintings.</hi>
+            </p>
+            <p>The <hi>XIX.</hi> Is commended for an <hi>Excellent Stomachical,</hi> and <hi>Cephalical Simple;</hi> for the <hi>diſperſion of wind, promoting of digeſtion, refreſhing the Faetus, removing the Palpitation of the heart, the ſtopping of all manner of Fluxes, and for the reſtoration of ſtrength after ſickneſs.</hi>
+            </p>
+            <p>The <hi>XX.</hi> Which is added to render it <hi>Grateful,</hi> and give it a <hi>Conſiſtence,</hi> and as it were to <hi>Dilute</hi> it, is ſo well known, I ſhall wholly omit to ſpeak of it.</p>
+            <p>The <hi>Laſt</hi> and <hi>Principal,</hi> I ſhall reſerve even from conjecture, except you can tell what it is, by being informed that in Chy<g ref="char:EOLhyphen"/>miſtry, nothing is Eſteemed <hi>More Sacred.</hi>
+            </p>
+            <p>Although I might bring in a <hi>Regiment</hi> of <hi>Worthy</hi> and <hi>Learn<g ref="char:EOLhyphen"/>ed Authours,</hi> which give in their Vote to what h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th been now propounded; yet I ſhall content my ſelf in the <hi>Impannelling</hi> a Jury of them, and trouble you with no more, their <hi>Teſtimony</hi> being <hi>instar omnium, valid</hi> to all <hi>intents</hi> and <hi>purpoſes; Andernacus, Dioſcorides, Fuchſius, Dodonaeus, Matthiolus, Lobelius, Renodaeus, Ge<g ref="char:EOLhyphen"/>rardus,
+<pb n="16" facs="tcp:153580:9" rendition="simple:additions"/>Schroderus, Weckerus, Cluſius</hi> and <hi>Camerarius:</hi> I have pro<g ref="char:EOLhyphen"/>ceeded thus far to give an account concerning my Balſom, to <hi>ſatisfie the reaſon of ſome,</hi> but not to <hi>gratifie the curioſity of any;</hi> and now I can <hi>appeal to the ſevereſt Cenſurers,</hi> whether any thing can be made more <hi>Effectual</hi> to all the <hi>Purpoſes</hi> which were before mentioned; And did I not believe there was no ſcruple left in my Readers minde, I could with great <hi>facility</hi> ſhow its <hi>Accom<g ref="char:EOLhyphen"/>modation</hi> to its particular ends by the <hi>Exact proportioning</hi> of thoſe things which are its <hi>Fundamentals,</hi> to thoſe which are but <hi>vehicles,</hi> and how thereby the Virtue of the <hi>Whole</hi> is <hi>Communicated</hi> to the <hi>ſeveral parts;</hi> but this would be <hi>oleum &amp; operam perdere,</hi> for thoſe which are not by what hath been already offered ſufficiently ſa<g ref="char:EOLhyphen"/>tisfied ſhall have my leave to <hi>abound</hi> in their <hi>own ſenſe.</hi>
+            </p>
+            <p>The Balſome is put up into <hi>Lattin Boxes,</hi> containing between the weight of four or five Ounces, and ſold for Five Shillings; which quantity in many Diſtempers, may be taken before any ſenſible benefit accrue, or at leaſt, the Cure be compleat; and where the Diſeaſe is radicated, more may be neceſſary: But be<g ref="char:EOLhyphen"/>cauſe Children may not need ſo great a quantity, and ſome have deſired a little for tryal; I was induced to have ſome of it put into Boxes holding about half ſo much, at half a Crown the Box; It will retain its Virtue for many years.</p>
+            <p>
+               <hi>The Boxes are Sealed with this Coat of Armes.</hi>
+            </p>
+            <figure>
+               <figDesc>coat of arms featuring stars and fleurs de lis</figDesc>
+            </figure>
+            <p>They are to be ſold in <hi>London,</hi> by Mr. <hi>Tho. Fydge Apothecary,</hi> at the <hi>ſign</hi> of the <hi>Fox</hi> in <hi>Biſhopſgate ſtreet,</hi> neer to the <hi>Spittle.</hi> Mr. <hi>Henry Everſden,</hi> at the <hi>Gray Hound</hi> in <hi>St. Pauls Church Yard.</hi> Mr. <hi>Tho. Clark</hi> at the <hi>South entrance</hi> into the <hi>Royal Exchange.</hi> By Mr. <hi>William Flindel</hi> at the <hi>White Hart in West-minster-Hall.</hi> Mr. <hi>William Fyge</hi> at the <hi>Hat</hi> and <hi>Feather</hi> in the <hi>Strand,</hi> neer the <hi>Savoy.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153580:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
